@@ -1,0 +1,364 @@
+.body {
+  background-color: #1E1F1F;
+}
+
+.headerimage {
+  background-image: url(images/diffuser.jpg);
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 777px;
+  margin-top: 1px;
+  width: 90%;
+}
+
+.headerlogo {
+  margin-top: -750px;
+  padding-left: 100px;
+}
+
+.nyhedstekst {
+  text-align: center;
+  font-size: 73px;
+  color: #ffffff;
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: 10px;
+}
+
+.duftspreder {
+  font-size: 22px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+}
+
+.hr {
+  width: 8%;
+  padding-left: 46%;
+  margin-top: 25px;
+}
+
+.sektion1 {
+  background-color: #ffffff;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.beskrivelse {
+  text-align: center;
+  color: #1E1F1F;
+  font-size: 54px;
+  margin-top: 500px;
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: 2px;
+  padding-top: 50px;
+}
+
+.overskrift1 {
+  text-align: center;
+  color: #1E1F1F;
+  margin-top: 30px;
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: 2px;
+}
+
+.tekst1 {
+  text-align: center;
+  color: #1E1F1F;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+}
+
+.hr1 {
+  width: 2%;
+  padding-left: 49%;
+  margin-top: 10px;
+}
+
+.overskrift2 {
+  text-align: center;
+  color: #1E1F1F;
+  margin-top: 30px;
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: 2px;
+}
+
+.tekst2 {
+  text-align: center;
+  color: #1E1F1F;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+}
+
+.hr2 {
+  width: 2%;
+  padding-left: 49%;
+  margin-top: 10px;
+  color: #1E1F1F;
+}
+
+.overskrift3 {
+  text-align: center;
+  color: #1E1F1F;
+  margin-top: 30px;
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: 2px;
+}
+
+.tekst3 {
+  text-align: center;
+  color: #1E1F1F;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+}
+
+.hr3 {
+  width: 2%;
+  padding-left: 49%;
+  margin-top: 10px;
+  color: #1E1F1F;
+}
+
+.overskrift4 {
+  text-align: center;
+  color: #1E1F1F;
+  margin-top: 30px;
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: 2px;
+}
+
+.tekst4 {
+  text-align: center;
+  color: #1E1F1F;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+}
+
+.hr4 {
+  width: 2%;
+  padding-left: 49%;
+  margin-top: 10px;
+  color: #1E1F1F;
+}
+
+.overskrift5 {
+  text-align: center;
+  color: #1E1F1F;
+  margin-top: 30px;
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: 2px;
+}
+
+.tekst5 {
+  text-align: center;
+  color: #1E1F1F;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+}
+
+.hr5 {
+  width: 2%;
+  padding-left: 49%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: #1E1F1F;
+  padding-bottom: 50px;
+}
+
+.håndmedtelefon {
+  padding-left: 208px;
+  margin-top: -150px;
+}
+
+.sektion2 {
+  background-color: #ffffff;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -50px;
+  margin-bottom: -10px;
+}
+
+.tekst6 {
+  text-align: center;
+  color: #1E1F1F;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+  margin-top: 20px;
+  padding-top: 50px;
+  font-size: 20px;
+}
+
+.hr6 {
+  width: 2%;
+  padding-left: 49%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: #1E1F1F;
+  padding-bottom: 20px;
+}
+
+.tekst7 {
+  text-align: center;
+  color: #1E1F1F;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+  margin-top: 20px;
+
+  padding-bottom: 50px;
+  font-size: 20px;
+}
+
+.hr7 {
+  width: 2%;
+  padding-left: 49%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: #1E1F1F;
+  padding-bottom: 10px;
+}
+
+.tekst8 {
+  text-align: center;
+  color: #1E1F1F;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.tekst9 {
+  text-align: center;
+  color: #1E1F1F;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+  font-size: 14px;
+  margin-top: -10px;
+}
+
+.tekst10 {
+  text-align: center;
+  color: #1E1F1F;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 2px;
+  font-size: 28px;
+  margin-top: 80px;
+  margin-bottom: -85px;
+}
+
+.video {
+  padding-left: 235px;
+  margin-top: -100px;
+  padding-bottom: 200px;
+}
+
+.billedetekst {
+  padding-left: 210px;
+  margin-top: -175px;
+  padding-bottom: 15px;
+  width: 200px;
+}
+
+.thegenie {
+position: relative;
+height: 460px;
+border-top: 10px solid #1E1F1F;
+border-bottom: 10px solid #1E1F1F;
+z-index: 0;
+}
+
+.thegenie img {
+  height: 500px;
+  width: 100%;
+  z-index: 1;
+  border-bottom: 10px solid #1E1F1F;
+}
+.button {
+    position: absolute;
+    float: left;
+    top: 30%;
+    left: 44%;
+    color: #ffffff;
+    font-size: 14pt;
+    padding: 12px 24px;
+    border: 1px solid white;
+    cursor: pointer;
+    z-index: 2;
+    font-family: "pt sans";
+    text-decoration: none;
+}
+
+.button:hover {
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+/* Footeren */
+footer {
+  width: 90%;
+  height: 140px;
+  background-color: #ffffff;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  border-top: 36px solid #1E1F1F;
+  z-index: 1;
+}
+
+.footertekst {
+  float: left;
+  width: 30%;
+  font-family: 'PT Sans', sans-serif;
+  line-height: 0.5;
+  text-align: center;
+  letter-spacing: 0.5px;
+  padding-top: 5px;
+}
+
+.sometekst {
+  font-family: 'PT Sans', sans-serif;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+.somelogo {
+  float: right;
+  margin-right: 180px;
+}
+
+.facebookicon {
+padding-bottom: 4px;
+}
+
+.ritualslogo {
+  width: 30%;
+  float: left;
+  padding-left: 50px;
+}
+
+.parallax {
+/* The image used */
+background-image: url("images/ritualsduftspreder.png");
+/* Set a specific height */
+height: 510px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-color: #1E1F1F;
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+}
+/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+    }
+  }
